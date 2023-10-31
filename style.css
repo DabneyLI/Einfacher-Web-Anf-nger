@@ -200,7 +200,7 @@ nav a {
     color: #FFFFFF; /* 链接颜色设为白色 */
     text-decoration: none; /* 移除下划线 */
     display: block; /* 使链接占据整个行空间 */
-    margin-left: 40%; /* 增加内边距 */
+    margin-left: 60%; /* 增加内边距 */
     text-align: left; /* 文字左对齐 */
 }
 }
