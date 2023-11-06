@@ -200,7 +200,7 @@ nav {
     position: fixed; /* 改为固定定位 */
     top: 80px; /* 从按钮下方开始 */
     left: 0; /* 从左边开始 */
-    width: 100%; /* 最大宽度为屏幕宽度的 100% */
+    width: 60%; /* 最大宽度为屏幕宽度的 100% */
     height: 100%; /* 最大高度为屏幕高度的 100% */
     overflow: auto; /* 内容超出时出现滚动条 */
     display: none; /* 默认隐藏 */
@@ -209,6 +209,7 @@ nav {
 }
 /* 调整菜单项样式 */
 nav ul {
+    right: 100px;
     list-style: none; /* 去除列表标记 */
     padding: 0; /* 移除内边距 */
     margin: 0; /* 移除外边距 */
