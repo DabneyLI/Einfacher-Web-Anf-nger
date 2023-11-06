@@ -209,7 +209,7 @@ nav {
 }
 /* 调整菜单项样式 */
 nav ul {
-    right: 80px;
+    right: 60px;
     list-style: none; /* 去除列表标记 */
     padding: 0; /* 移除内边距 */
     margin: 0; /* 移除外边距 */
