@@ -9,7 +9,7 @@ document.getElementById('languageSelector').addEventListener('change', function 
         break;
     case 'cn':
         window.location.href = 'https://cn.einfachwebsiteerstellen.de/'; // 替换为中文页面的实际 URL
-        break
+        break;
     // 可以根据需要添加更多的 case
 }
 });
